@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.5.0"
+  version: "1.6.1"
 
 package:
   name: perceval
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/perceval/perceval-${{ version }}.tar.gz
-  sha256: 78154fc51d3334bae71faf5318ab1dca66186cfe2699fdde0bcfc54bb0be3e70
+  sha256: 592b07d34ae0b382188d3b72c2fc7191091b94b56973dab2aef3221e0bd9721e
 
 build:
   number: 0
